@@ -1,2 +1,4 @@
-# Veterinary-Management-System-Frontend
-Acerca del repositorio, este es un proyecto de sistema de atención veterinaria que incluye características como programación de citas, registro de historiales médicos y gestión de usuarios para veterinarios y propietarios de mascotas. Está desarrollado utilizando tecnologías como Node.js, Express, MySQL y React.
+Proyecto de sistema de atención veterinaria completo, desarrollado con las tecnologías Node.js, Express, MySQL y React. Con este sistema, los veterinarios podrán gestionar fácilmente sus pacientes, clientes y usuarios, programar citas y registrar historiales médicos de los animales. Por otro lado, los propietarios de mascotas podrán solicitar citas y ver su historiales médico. El sistema cuenta con una interfaz amigable y fácil de usar.
+
+## IMPORTANTE
+Este repositorio contiene el front-end del proyecto de sistema de atención veterinaria, desarrollado con React y Bootstrap. Incluye una interfaz amigable y fácil de usar para la gestión de pacientes, clientes, usuarios, citas y historiales médicos. Se conecta a una API-REST desarrollada con Node.js, Express y MySQL, que se encuentra en el repositorio, https://github.com/NicolasOrrego/Veterinary-Management-System-Backend
